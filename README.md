@@ -26,8 +26,5 @@ pip install -r requirements.txt
 python bot.py
 ```
 
-## Конфигурация
-Для работы бота необходимо указать токен бота в файле `bot.py`.
+Автор TГ- @Born_ironside
 
-## Лицензия
-Этот проект лицензирован под MIT License - см. файл LICENSE.md для подробностей.
